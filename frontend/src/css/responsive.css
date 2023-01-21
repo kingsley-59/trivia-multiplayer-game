@@ -1,0 +1,24 @@
+
+
+/* small devices like phones and down */
+@media only screen and (max-width: 600px) {
+    .home-btns {
+        gap: 10px;
+    }
+    .home-btn-text {
+        font-size: 26px;
+        font-weight: 400;
+    }
+}
+
+/* small devices to portrait tablet */
+@media only screen and (min-width: 600px) {}
+
+/* medium devices, landscape tablets and up */
+@media only sccreen and (min-width: 768px) {}
+
+/* large devices, laptops, desktops and up */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices and up */
+@media only screen and (min-width: 1200px) {}
